@@ -1,0 +1,11 @@
+{
+	"name": "crash_dmd",
+	"description": "Crashes DMD at compile time in release mode",
+	"targetType": "executable",
+
+	"dependencies": {
+		"derelict-sdl2": "~>2.1.4",
+		"derelict-sdl2_gfx": "~>1.0.0",
+		"derelict-util": "~>2.0.6",
+	},
+}
